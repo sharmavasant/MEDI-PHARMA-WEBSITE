@@ -18,6 +18,7 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 ![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss1.jpeg)
 ![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss2.jpeg)
 ![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss3.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss4.jpeg)
 
 
 ## Tech Stack
