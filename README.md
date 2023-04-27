@@ -38,4 +38,4 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 ## Authors
 
 - [VASANT KUMAR SHARMA](https://github.com/sharmavasant)
-- [VASANT KUMAR SHARMA](https://github.com/v1ikaskumarpatel)
+- [VIKAS KUMAR PATEL](https://github.com/v1ikaskumarpatel)
