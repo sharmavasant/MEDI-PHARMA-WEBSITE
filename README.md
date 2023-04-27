@@ -15,10 +15,15 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 
 ## Screenshots
 
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss1.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss2.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss3.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/main/public/img/ss4.jpeg)
+
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/home.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/register.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/login.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/menu.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/order.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/orders.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/status.jpeg)
+![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/update.jpeg)
 
 
 ## Tech Stack
@@ -33,3 +38,4 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 ## Authors
 
 - [VASANT KUMAR SHARMA](https://github.com/sharmavasant)
+- [VIKAS KUMAR PATEL](https://github.com/v1ikaskumarpatel)
