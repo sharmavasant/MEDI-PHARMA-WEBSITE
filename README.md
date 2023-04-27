@@ -1,6 +1,6 @@
 
-# REALTIME-FRUIT-APP
-It is a real-time fruit ordering application in which user can login and logout successfully as well as user can place order and track the placed order.
+# MEDI-PHARMA-WEBSITE
+It is a real-time medicine ordering application in which user can login and logout successfully as well as user can place order and track the placed order.
 
 ## Running Tests
 After download or clone run `npm install` OR `yarn install` to install all the dependancies.
