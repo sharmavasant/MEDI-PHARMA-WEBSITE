@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Moov",
+  "image": "moov.png",
+  "price": "176",
+  "size": "60 g"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Chyawanprash",
+  "image": "chayan.png",
+  "price": "335",
+  "size": "950 g"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Cofsils",
+  "image": "cyrup.png",
+  "price": "208",
+  "size": "100 ml"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Paracetamol",
+  "image": "para.png",
+  "price": "935",
+  "size": "500 mg"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Amloz",
+  "image": "atenolol.png",
+  "price": "137",
+  "size": "50 mg"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Amoxicla",
+  "image": "amoxa.png",
+  "price": "189",
+  "size": "625 mg"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Vitamin C",
+  "image": "vitc.png",
+  "price": "617",
+  "size": "120 tablets"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Himalaya Face Wash",
+  "image": "him.png",
+  "price": "127",
+  "size": "150 ml"
+}]
