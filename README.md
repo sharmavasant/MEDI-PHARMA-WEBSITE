@@ -16,14 +16,14 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 ## Screenshots
 
 
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/home.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/register.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/login.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/menu.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/order.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/orders.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/status.jpeg)
-![App Screenshot](https://github.com/sharmavasant/REALTIME-FRUIT-APP/blob/vikas/public/img/update.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/home.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/img1.png)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/img2.png)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/menu.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/order.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/orders.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/status.jpeg)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/update.jpeg)
 
 
 ## Tech Stack
