@@ -17,8 +17,8 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 
 
 ![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/home.jpeg)
-![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/img1.png)
-![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/img2.png)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vasant/public/img/img1.png)
+![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vasant/public/img/img2.png)
 ![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/menu.jpeg)
 ![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/order.jpeg)
 ![App Screenshot](https://github.com/sharmavasant/MEDI-PHARMA-WEBSITE/blob/vikas/public/img/orders.jpeg)
